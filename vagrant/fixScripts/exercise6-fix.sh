@@ -1,2 +1,1 @@
-#!/bin/bash
-#add fix to exercise6-fix here
+run the python file "copyFiles.py" at "/home/vagrant" at server2
